@@ -1,5 +1,5 @@
 # Splash of Colour  
-Eng: Splash of Colour, Colour Extraction  
+Eng: Colour Splash Effect  
 Kor: 컬러추출 필터  
 Chn: 局部彩色  
 
